@@ -10,9 +10,12 @@
 
 # production
 /build
+src/server/config.js
 
 # misc
 .DS_Store
+.env
+.vscode
 .env.local
 .env.development.local
 .env.test.local
